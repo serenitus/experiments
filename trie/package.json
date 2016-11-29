@@ -1,0 +1,14 @@
+{
+  "name": "trie",
+  "version": "0.1.0",
+  "description": "Trie experiment",
+  "main": "trie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simon Turvey",
+  "license": "MIT",
+  "dependencies": {
+    "purdy": "^2.2.0"
+  }
+}
